@@ -5,9 +5,7 @@ body {
 body, h1, h2, h3 {
 margin: 0;
 } 
-
 /*pesquisar sobre reset meyerweb*/
-
 button {
     border: none;
     font-family: inherit;
