@@ -1,11 +1,11 @@
-.box {
+.main-box {
     display: inline-block;
     background-color: #3A4042;
     box-shadow: 10px 10px 0 #000;
-    text-align: center;
+    text-align: cenmain-ter;
     padding: 42px 44px;
 }
 
-.box .tilte {
+.main-box .main-title {
     margin-bottom: 28px;
 }
