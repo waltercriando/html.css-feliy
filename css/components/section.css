@@ -1,10 +1,9 @@
 .section {
     display: flex;
-    background-color: #f25a70;
+    background-color: #F25A70;
     padding-top: 50px;
     padding-bottom: 100px;
     border-bottom: 10px solid #7C5E99;
-    justify-content: space-around; /*mundança no alinhamento*/
 }
 
 .section .main-title {

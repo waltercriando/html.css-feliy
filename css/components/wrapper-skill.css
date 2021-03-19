@@ -11,7 +11,7 @@
 
 }
 
-.wrapper-skill .skill-tec:nth-child(odd) {
+.wrapper-skill .skill-tec:nth-child(add) {
     margin-right: 100px;
 }
 
